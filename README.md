@@ -38,4 +38,4 @@ Stack will include:
     - hit `heroku help pipelines` for any help
     - here's a quick look at the pipeline on Heroku.com 
     
-    ![Heroku Pipeline](ihttps://github.com/Shefuchow/firstFlaskApp/blob/master/weatherApp/img/heroku%20pipelines.png?raw=true)
+    ![Heroku Pipeline](weatherApp/img/heroku pipelines.png)
